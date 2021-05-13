@@ -15,7 +15,7 @@ start_date = '03-MAY-2021'
 end_date = '10-MAY-2021'
 
 #API key from https://www.worldweatheronline.com/developer/api/
-api_key = '8901689f949343adbe8213100211205'
+api_key = 'XXXXXXXXXXXXXXXX'
 
 #Location
 location_list = ['california','detroit']
